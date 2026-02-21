@@ -12,15 +12,15 @@ HOW TO INSTALL:
 1.  Download this code. It should end up in your Downloads folder as a cs file. 
 
 2.  Put the cs file in the Script Menu folder of VEGAS. Here's the path: C:\Program Files\VEGAS\VEGAS Pro 21.0\Script Menu
-      (note: your version of VEGAS might differ from mine, so make sure to put the right program name in!)
+      (note: your version of VEGAS might differ from mine, so make sure to put the right program name in!).
 
 3.  Open VEGAS and go to the Tools dropdown menu on the top toolbar.
 
-4. Select "Scripting"
+4. Select "Scripting".
    
-5. Select "Rescan Script Menu Folder"
+5. Select "Rescan Script Menu Folder".
 
-6. "Shake Selected Clips for VEGAS" should now show up on the list of scripts
+6. "Shake Selected Clip (Updated)" should now show up on the list of scripts.
 
 ////
 
@@ -28,7 +28,7 @@ IF YOU DO NOT WISH TO PUT THIS FILE IN "SCRIPT MENU":
 
 1. Download this code and do steps 3 and 4.
    
-3. Select "Run Script"
+3. Select "Run Script".
    
 5. Select the script directly from whatever folder you want to place it in. You will need to do this every time you want to run this script.
   
