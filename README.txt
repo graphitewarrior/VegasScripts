@@ -1,11 +1,11 @@
-####[Simple Camera Shake effect.](Shake Selected Clip.cs)
+[Simple Camera Shake effect.](Shake Selected Clip.cs)
 It will create a "camera during earthquake" movement on the selected video clip. It uses Pan + Crop keyframes to achieve this. It is fully configurable.
 -Tommy Marplatt - December 2015
 
 This is a fork of the script containing a version compatible with newer versions of Vegas that do not use the same pathways as the original. I also added "Autosize" to all the UI elements so they are more accessible on differently sized screens, though I am yet to test it and am happy to fix any scaling issues. 
 -graphitewarrior - February 2026
 
-////
+//
 
 HOW TO INSTALL:
 
@@ -22,7 +22,7 @@ HOW TO INSTALL:
 
 6. "Shake Selected Clip (Updated)" should now show up on the list of scripts.
 
-////
+//
 
 IF YOU DO NOT WISH TO PUT THIS FILE IN "SCRIPT MENU":
 
@@ -31,4 +31,3 @@ IF YOU DO NOT WISH TO PUT THIS FILE IN "SCRIPT MENU":
 3. Select "Run Script".
    
 5. Select the script directly from whatever folder you want to place it in. You will need to do this every time you want to run this script.
-  
